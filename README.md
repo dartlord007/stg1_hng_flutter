@@ -21,11 +21,6 @@ cd stg1_hng_flutter
 ## Navigate to the project directory:
 `cd stg1_hng_flutter`
 
-## Installing Dependencies
-Run the following command to install the required dependencies:
-
-`flutter pub get`
-
 ## Running the App
 Connect a physical device or start an emulator.
 Run the app using the following command:

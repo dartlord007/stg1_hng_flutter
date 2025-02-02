@@ -15,11 +15,11 @@ A Flutter-based application that allows users to securely encrypt and decrypt te
 ## Setup Instructions
 ### Clone the Repository
 `
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/dartlord007/stg1_hng_flutter
+cd stg1_hng_flutter
 `
 ## Navigate to the project directory:
-`cd your-repo-name`
+`cd stg1_hng_flutter`
 
 ## Installing Dependencies
 Run the following command to install the required dependencies:

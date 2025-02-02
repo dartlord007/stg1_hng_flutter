@@ -1,4 +1,4 @@
-## HNG Stage 0 Task - A new Flutter project.
+## HNG Stage 1 Task 
 
 A Flutter-based application that allows users to securely encrypt and decrypt text using a custom algorithm. This app is designed to be simple, intuitive, and easy to use.
 

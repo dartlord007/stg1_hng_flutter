@@ -52,9 +52,11 @@ Run the app using the following command:
 - Click the eye icon in the "Secret Key" field to toggle between showing and hiding the secret key.
 
 ## Example
+
 Input:
 - Text : Hello World
 - Secret Key : mysecretkey
+
 Output:
 - Encrypted Text : d4d3e9e0d9 (Example output; actual output may vary based on the algorithm)
 - Decrypted Text : Hello World

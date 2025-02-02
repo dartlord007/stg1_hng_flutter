@@ -13,7 +13,7 @@ A Flutter-based application that allows users to securely encrypt and decrypt te
 - **User-Friendly UI**: Clean and intuitive design for seamless interaction.
 
 ## Setup Instructions
-## 1️⃣ Clone the Repository
+### Clone the Repository
 `
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo

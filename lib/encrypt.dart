@@ -18,7 +18,7 @@ class EncryptionAlgorithm {
 
   static String decrypt(String encrypted, String secretKey) {
     List<int> encryptedAscii = [];
-    //Core component of decryption algorithm. This will encrypt the inputed text and secret key which is already in ASCII format. The result is the reformated into a hexadecimal string.
+    //Core component of decryption algorithm.
     for (int i = 0; i < encrypted.length; i += 2) {
       encryptedAscii.add(int.parse(encrypted.substring(i, i + 2), radix: 16));
     }

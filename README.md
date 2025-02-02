@@ -2,7 +2,7 @@
 
 A Flutter-based application that allows users to securely encrypt and decrypt text using a custom algorithm. This app is designed to be simple, intuitive, and easy to use.
 
-## Deployed on [Appetize.io]()
+## Deployed on [Appetize.io](https://appetize.io/app/b_7dnpumb3nyvlmv3sbvhqztuu3e)
 
 ## Features
 
